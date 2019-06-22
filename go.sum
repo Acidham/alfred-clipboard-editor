@@ -1,0 +1,4 @@
+github.com/atotto/clipboard v0.1.2 h1:YZCtFu5Ie8qX2VmVTBnrqLSiU9XOWwqNRmdT3gIQzbY=
+github.com/atotto/clipboard v0.1.2/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
+github.com/everdev/mack v0.0.0-20180604194106-83ad607f6010 h1:YCE+Yya5u0KNa1ML5qCfRzoFLwDovb2D+0TPS9F0n+I=
+github.com/everdev/mack v0.0.0-20180604194106-83ad607f6010/go.mod h1:9b3JPh49iYN2BWgsGwc77VTYIni+FpwOH8f7oanwA6M=
